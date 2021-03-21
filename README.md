@@ -2,6 +2,9 @@
 
 You can use the [editor on GitHub](https://github.com/doedotdev/doedotdev.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
+[nb ipynb](https://github.com/doedotdev/doedotdev.github.io/blob/main/nb.ipynb)
+[nb html ](https://github.com/doedotdev/doedotdev.github.io/blob/main/nb.html)
+
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
