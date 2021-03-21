@@ -4,6 +4,7 @@ You can use the [editor on GitHub](https://github.com/doedotdev/doedotdev.github
 
 [nb ipynb](https://github.com/doedotdev/doedotdev.github.io/blob/main/nb.ipynb)
 [nb html ](https://github.com/doedotdev/doedotdev.github.io/blob/main/nb.html)
+[pg html ](http://doedotdev.github.io/nb.html)
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
